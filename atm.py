@@ -34,7 +34,7 @@ def pin_code():
 code=pin_code()
 def options():
     if user==1:
-        if code==6859:
+        if code==2356:
             balance=10000
             print('please press 1 for your balance inquiry')
             print('please press 2 for your withdrawl')
@@ -55,7 +55,7 @@ def options():
                 print("THANK YOU FOR VISIT")
             return ans
     else:
-        if code==6859:
+        if code==2356:
             balance=20000
             print('Kripya karke 1 dbaye apni Jma rashi ke bare me janne ke liye')
             print('Pese nikalne ke liye 2 Dbaye')

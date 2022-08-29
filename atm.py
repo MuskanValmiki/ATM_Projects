@@ -10,7 +10,7 @@ def pin_code():
         i=0
         while i<3:
             pin=int(input("enter your four digit pin number="))
-            if pin== 6859:
+            if pin== 2356:
                 print("correct")
                 break
             else:
@@ -22,7 +22,7 @@ def pin_code():
         i=0
         while i<3:
             pin=int(input("Apna char number ka pin Darj kare="))
-            if pin== 6859:
+            if pin== 2356:
                 print("Aapka pin sahi hai")
                 break
             else:
